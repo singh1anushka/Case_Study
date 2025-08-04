@@ -69,7 +69,7 @@ C2: 10px/ Semi bold, Medium, Regular<br>
 ## Before and after of redesign landing page
 ![Homepage Preview](Landingpageredesign1.png)
 ![Homepage Preview](Landingpageredesign2.png)
-![Homepage Preview]()
+![Homepage Preview](Landingpageredesign3.png)
 
 ## Design Preview
 ![Homepage Preview](Sanitizeweb_Landing Page.png)
