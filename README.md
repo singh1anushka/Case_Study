@@ -72,4 +72,7 @@ C2: 10px/ Semi bold, Medium, Regular<br>
 ![Homepage Preview](Landingpageredesign3.png)
 
 ## Design Preview
+
+This project showed me how powerful small design decisions can be. Better spacing, clearer text, and thoughtful CTAs can completely change how easy and inviting a website feels. I tried to turning a complex site into a friendly, professional landing page.<br>
+
 ![Homepage Preview](SanitizeLandingPage.png)
