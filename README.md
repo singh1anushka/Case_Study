@@ -67,7 +67,7 @@ C2: 10px/ Semi bold, Medium, Regular<br>
 | Background Color | #2B2D42   
 
 ## Before and after of redesign landing page
-![Homepage Preview]()
+![Homepage Preview](Landingpageredesign1.png)
 ![Homepage Preview]()
 ![Homepage Preview]()
 
