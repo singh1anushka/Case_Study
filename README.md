@@ -72,4 +72,4 @@ C2: 10px/ Semi bold, Medium, Regular<br>
 ![Homepage Preview]()
 
 ## Design Preview
-![Homepage Preview]()
+![Homepage Preview](Sanitizeweb_Landing Page.png)
