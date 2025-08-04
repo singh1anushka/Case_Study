@@ -1,6 +1,6 @@
 # View on Figma
 
-[Figma Project Link – ASR Women’s Clothing Website](https://www.figma.com/design/8Y5dcMqK0H0pgY2t87FklT/Sanitize-Email?node-id=0-1&t=6nOewThFsafC7ti4-1)
+[Figma Project Link – RedesignEmailValiation_Website](https://www.figma.com/design/8Y5dcMqK0H0pgY2t87FklT/Sanitize-Email?node-id=0-1&t=6nOewThFsafC7ti4-1)
 
 ## Sanitize Email – Landing Page Redesign
 
